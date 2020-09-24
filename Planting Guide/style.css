@@ -1,0 +1,44 @@
+
+
+.firstq {
+    
+ width: 90%;
+ margin: 15px;
+ padding: 15px;
+ border: solid;
+ border-radius: 12px;
+
+}
+
+.firstq:hover {
+background-color: yellow;
+background-size: 25%;
+
+
+}
+
+.secondq {
+    width: 90%;
+    margin: 15px;
+    padding: 15px;
+    border: solid;
+    border-radius: 12px;
+
+}
+
+.thirdq {
+    width: 90%;
+ margin: 15px;
+ padding: 15px;
+ border: solid;
+ border-radius: 12px;
+
+}
+
+.fourthq {
+    width: 90%;
+ margin: 15px;
+ padding: 15px;
+ border: solid;
+ border-radius: 12px;
+}
