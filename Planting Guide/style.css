@@ -1,5 +1,7 @@
 
-
+h1 {
+color: black;
+}
 .firstq {
     
  width: 90%;
@@ -11,8 +13,8 @@
 }
 
 .firstq:hover {
-background-color: yellow;
-background-size: 25%;
+
+box-shadow: inset 15em 0em yellow;
 
 
 }
@@ -26,6 +28,11 @@ background-size: 25%;
 
 }
 
+.secondq:hover {
+    box-shadow: inset 35em 0em yellow;
+
+}
+
 .thirdq {
     width: 90%;
  margin: 15px;
@@ -35,10 +42,21 @@ background-size: 25%;
 
 }
 
+.thirdq:hover {
+    
+    background-color: yellow;
+}
+
 .fourthq {
     width: 90%;
  margin: 15px;
  padding: 15px;
  border: solid;
  border-radius: 12px;
+}
+
+.fourthq:hover {
+    
+    box-shadow: inset 55em 0em yellow;
+
 }
